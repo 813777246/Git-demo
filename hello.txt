@@ -1,1 +1,3 @@
+I am Chinese!
+
 hello Git!
